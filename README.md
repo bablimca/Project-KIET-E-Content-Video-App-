@@ -12,4 +12,4 @@ Steps to activate project on LINUX-
 # Step 8 : Restart apache server ~# service apache2 restart
 # Step 9 : Open the project on web browser http://localhost/video_sharing/
 
-############### HAPPY CODING #####################################
+############### HAPPY CODING ##########################
